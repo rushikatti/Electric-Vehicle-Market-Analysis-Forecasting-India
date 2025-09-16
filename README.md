@@ -1,4 +1,4 @@
-⚡ EV Market Analysis – India Case Study
+# ⚡ EV Market Analysis – India Case Study
 
 ## 🚗 Project Overview  
 A comprehensive analysis of India’s Electric Vehicle (EV) market from **2001 to 2024**, with forecasting up to **2030**.  
