@@ -1,46 +1,58 @@
-EV Market Analysis & Strategic Recommendations
-Project Overview
-This project analyzes the Electric Vehicle (EV) landscape in India
-(2001--2024) using Power BI, highlighting growth trends, infrastructure
-gaps, key players, and future market predictions. It provides actionable
-insights to guide policymakers, manufacturers, and investors toward a
-more sustainable EV ecosystem.
-Key Features
-1. Overview
-⦁	Visualizes total registered vehicles, total EVs, EV market share,
-and EV adoption CAGR.
-⦁	EVs per charging station KPI highlights current infrastructure
-density.
-2. Category Analysis & Market Share Breakdown
-⦁	Sales trends by vehicle categories: 2W, 3W, LMV, MMV.
-⦁	Market share of top manufacturers.
-⦁	Analysis of single-category vs multi-category makers.
-3. Infrastructure and Manufacturers
-⦁	Analysis of total charging points by state.
-⦁	Top manufacturers and maker types.
-⦁	Insights into distribution gaps across regions.
-4. Future Forecast & Strategic Recommendations
-⦁	Forecasted EV sales up to 2030 using Power BI's built-in forecasting
-feature.
-⦁	Key strategic recommendations:
-⦁	Target to reduce EV-to-CP ratio to <100 by 2030.
-⦁	Accelerate public charging station investments, especially in
-high-density states.
-⦁	Support smaller entrants and innovation to promote market
-competition.
-Insights
-⦁	"After a peak in 2021, EV sales are expected to stabilize with
-uncertainty, indicating the need for targeted policy intervention."
-⦁	"Currently, there are 369 EVs for every public charging point in
-India, highlighting a significant infrastructure gap."
-Tools & Technologies
-⦁	Power BI for data visualization, forecasting, and dashboard
-creation.
-⦁	DAX for custom calculations and KPIs.
-⦁	Data Source: Indian EV sales and charging station data.
-Recommendations
-⦁	Aggressive investment in charging infrastructure to reduce range
-anxiety and encourage EV adoption.
-⦁	Policies that support multi-category manufacturers and small
-players.
-⦁	Ongoing market monitoring to adjust strategies dynamically.
+⚡ EV Market Analysis – India Case Study
+
+## 🚗 Project Overview  
+A comprehensive analysis of India’s Electric Vehicle (EV) market from **2001 to 2024**, with forecasting up to **2030**.  
+This project highlights EV adoption trends, infrastructure gaps, manufacturer performance, and provides actionable strategic recommendations for policymakers and industry stakeholders.
+
+---
+
+## 🎯 Key Objectives  
+- Track EV adoption growth in India (2001–2024)  
+- Compare EV makers’ performance across vehicle categories  
+- Identify gaps between EV sales and charging infrastructure  
+- Forecast future EV adoption (2025–2030)  
+- Provide policy and business recommendations  
+
+---
+
+## 📊 Key Features
+
+### 1. Overview  
+- Visualizes total registered vehicles, total EVs, EV market share, and EV adoption CAGR.  
+- EVs per Charging Point (CP) KPI highlights current infrastructure density.
+
+### 2. Category & Market Share Analysis  
+- Trend analysis of EV sales by categories: 2W, 3W, LMV, MMV.  
+- Market share breakdown of top EV makers.  
+- Analysis of single-category vs multi-category makers.
+
+### 3. Infrastructure & Manufacturer Insights  
+- Total public charging points by state.  
+- Key gaps identified: High EV-to-CP ratio (369 EVs per CP).  
+- Strategic maker classification: Multi-category vs Single-category manufacturers.
+
+### 4. Forecasting Future Growth  
+- Forecast of EV sales until 2030 using Power BI built-in forecasting.  
+- Confidence intervals show uncertainty in long-term projections.
+
+### 5. Strategic Recommendations  
+- Aggressive investment in public and private charging infrastructure.  
+- Incentives for multi-category manufacturers and new entrants.  
+- Focused policy support for under-represented vehicle segments (LMV, Bus).
+
+---
+
+## 🚀 Example Insights
+
+- “369 EVs per public charging point highlight a major infrastructure gap needing urgent attention.”  
+- “Market dominated by a few key makers (Ola, Hero, Ather), indicating a risk of monopolization.”  
+- “Forecast shows EV adoption stabilizing unless supported by infrastructure investments.”
+
+---
+
+## 🛠 Tools & Technologies  
+- Power BI Desktop (for visualization and forecasting)  
+- DAX (for custom measures and KPIs)  
+- Data Source: Indian EV Sales & Charging Station Data  
+
+
